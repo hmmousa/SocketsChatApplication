@@ -6,3 +6,5 @@ A Simple Chat Application using Sockets in Java
 ![](images/SocketsChatApplication.PNG)
 
 ### Video:
+
+![](images/SocketsChatApplication.gif)
